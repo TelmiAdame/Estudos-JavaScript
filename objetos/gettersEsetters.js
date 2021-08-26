@@ -20,11 +20,11 @@ Alguns pontos importantes a serem destacados para o uso de setters são:
 let valor = 5
 const objetoQualquer = {
     get valor() {
-        return `Valor é:` + valor
+        return `Valor é: ` + valor
     },
     set valor(numero){
         valor = numero + 1
     }
 }
 
-console.log(objetoQualquer)
+console.log(objetoQualquer.valor)
