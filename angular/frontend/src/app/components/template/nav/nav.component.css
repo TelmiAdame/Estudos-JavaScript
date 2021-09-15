@@ -1,0 +1,17 @@
+
+
+/* cor fundo e tamanho */
+.sidenav {
+    background-color: #21c25e;
+    width: 200px;
+}
+
+/* Cor fonte*/
+.sidenav a {
+    color: #fff;
+}
+
+/* Espaçamento entre texto e ícone */
+.sidenav i {
+    padding-right: 10px;
+}
