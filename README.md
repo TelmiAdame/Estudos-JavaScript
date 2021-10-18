@@ -1,4 +1,4 @@
-# Projeto Loja em Angular e Fundamentos e Exercícios em JavaScript
+# Projeto Loja em Angular | Fundamentos e Exercícios em JavaScript
 
 Olá, essa é uma pasta que contém:
 
