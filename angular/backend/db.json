@@ -1,24 +1,294 @@
 {
   "products": [
     {
-      "id": 1,
-      "name": "Caneta BIC Preta",
-      "price": 5.89
+      "name": "Camiseta Be Daring Feminina - Branco",
+      "price": "49.80",
+      "id": 6
     },
     {
-      "id": 2,
-      "name": "Notebok Mac Pro",
-      "price": 12000.89
+      "name": "Camiseta PicPay Logo - Feminina - Mescla",
+      "price": "39.80",
+      "id": 7
     },
     {
-      "id": 3,
-      "name": "Sansung S20+",
-      "price": 5000.89
+      "name": "Camiseta PicPay Logo - Feminina - Branco",
+      "price": "39.80",
+      "id": 8
     },
     {
-      "name": "Bola de futubol",
-      "price": "56.99",
-      "id": 5
+      "name": "Camiseta PicPay Mission - Feminina - Branco",
+      "price": "39.45",
+      "id": 9
+    },
+    {
+      "name": "Camiseta PicPay Mission - Feminina - Mescla",
+      "price": "39.45",
+      "id": 10
+    },
+    {
+      "name": "Camiseta PicPay Mission - Feminina - Preto",
+      "price": "39.45",
+      "id": 11
+    },
+    {
+      "name": "Camiseta Pantone - Feminina - Preto",
+      "price": "49.80",
+      "id": 12
+    },
+    {
+      "name": "Camiseta Pantone - Feminina - Mescla",
+      "price": "49.80",
+      "id": 13
+    },
+    {
+      "name": "Camiseta PicPay Logo Colorida - Feminina - Branco",
+      "price": "44.73",
+      "id": 14
+    },
+    {
+      "name": "Camiseta Quem Quer Dinheiro - Feminina - Branco",
+      "price": "49.80",
+      "id": 15
+    },
+    {
+      "name": "Camiseta Real - Feminina - Branco",
+      "price": "44.73",
+      "id": 16
+    },
+    {
+      "name": "Camiseta PicPay Logo - Feminina - Preto",
+      "price": "39.80",
+      "id": 17
+    },
+    {
+      "name": "Camiseta PicPay Logo Contorno - Feminina - Preto",
+      "price": "39.45",
+      "id": 18
+    },
+    {
+      "name": "Camiseta PicPay Logo Contorno - Feminina - Mescla",
+      "price": "39.45",
+      "id": 19
+    },
+    {
+      "name": "Camiseta Be Daring Feminina - Mescla",
+      "price": "49.80",
+      "id": 20
+    },
+    {
+      "name": "Camiseta Be Daring Feminina - Preto",
+      "price": "49.80",
+      "id": 21
+    },
+    {
+      "name": "Camiseta Fail Fast Feminina - Preto",
+      "price": "44.73",
+      "id": 22
+    },
+    {
+      "name": "Camiseta Fail Fast Feminina - Branco",
+      "price": "44.73",
+      "id": 23
+    },
+    {
+      "name": "Camiseta Frictionless Feminina - Branco",
+      "price": "44.73",
+      "id": 24
+    },
+    {
+      "name": "Camiseta Logo Pic Pay Color - Feminina - Preto",
+      "price": "49.80",
+      "id": 25
+    },
+    {
+      "name": "Camiseta Logo Pic Pay Color - Feminina - Mescla",
+      "price": "49.80",
+      "id": 26
+    },
+    {
+      "name": "Camiseta Logo Pic Pay Color - Feminina - Branco",
+      "price": "49.80",
+      "id": 27
+    },
+    {
+      "name": "Camiseta PicPay Logo Peq - Feminina - Preto",
+      "price": "39.45",
+      "id": 28
+    },
+    {
+      "name": "Camiseta PicPay Logo Peq - Feminina - Mescla",
+      "price": "39.45",
+      "id": 29
+    },
+    {
+      "name": "PicPay + - Feminina",
+      "price": "49.90",
+      "id": 30
+    },
+    {
+      "name": "Camiseta Break It - Branco",
+      "price": "44.73",
+      "id": 31
+    },
+    {
+      "name": "Camiseta PicPay Logo - Mescla",
+      "price": "39.80",
+      "id": 32
+    },
+    {
+      "name": "Camiseta PicPay Logo - Branco",
+      "price": "39.80",
+      "id": 33
+    },
+    {
+      "name": "Camiseta PicPay Mission - Preto",
+      "price": "39.45",
+      "id": 34
+    },
+    {
+      "name": "Camiseta PicPay Mission - Mescla",
+      "price": "39.45",
+      "id": 35
+    },
+    {
+      "name": "Camiseta PicPay Mission - Branco",
+      "price": "39.45",
+      "id": 36
+    },
+    {
+      "name": "Camiseta Pantone - Preto",
+      "price": "49.80",
+      "id": 37
+    },
+    {
+      "name": "Camiseta Pantone - Mescla",
+      "price": "49.80",
+      "id": 38
+    },
+    {
+      "name": "Camiseta PicPay Logo Colorida - Branco",
+      "price": "44.73",
+      "id": 39
+    },
+    {
+      "name": "Camiseta Quem Quer Dinheiro - Branco",
+      "price": "49.80",
+      "id": 40
+    },
+    {
+      "name": "Camiseta Real - Branco",
+      "price": "44.73",
+      "id": 41
+    },
+    {
+      "name": "Camiseta Just Test It - Preto",
+      "price": "49.80",
+      "id": 42
+    },
+    {
+      "name": "Camiseta PicPay Logo - Preto",
+      "price": "39.80",
+      "id": 43
+    },
+    {
+      "name": "Camiseta PicPay Logo Contorno - Mescla",
+      "price": "39.45",
+      "id": 44
+    },
+    {
+      "name": "Camiseta Break It - Preto",
+      "price": "44.73",
+      "id": 45
+    },
+    {
+      "name": "Camiseta - Frictionless - Branco",
+      "price": "44.73",
+      "id": 46
+    },
+    {
+      "name": "Camiseta Logo Pic Pay Color - Branco",
+      "price": "49.80",
+      "id": 47
+    },
+    {
+      "name": "Camiseta Logo Pic Pay Color - Mescla",
+      "price": "49.80",
+      "id": 48
+    },
+    {
+      "name": "Camiseta Logo Pic Pay Color - Preto",
+      "price": "49.80",
+      "id": 49
+    },
+    {
+      "name": "Camiseta - Be Daring - Branco",
+      "price": "49.80",
+      "id": 50
+    },
+    {
+      "name": "Camiseta - Be Daring - Mescla",
+      "price": "49.80",
+      "id": 51
+    },
+    {
+      "name": "Camiseta - Be Daring - Preto",
+      "price": "49.80",
+      "id": 52
+    },
+    {
+      "name": "Camiseta PicPay Logo Peq - Preto",
+      "price": "39.45",
+      "id": 54
+    },
+    {
+      "name": "Camiseta PicPay Logo Peq - Mesc",
+      "price": "39.45",
+      "id": 55
+    },
+    {
+      "name": "Camiseta PicPay Logo Contorno - Preto",
+      "price": "39.45",
+      "id": 56
+    },
+    {
+      "name": "PicPay +",
+      "price": "49.90",
+      "id": 57
+    },
+    {
+      "name": "Boné PicPay Logo",
+      "price": "44.90",
+      "id": 58
+    },
+    {
+      "name": "Boné PicPay Logo Cor",
+      "price": "44.90",
+      "id": 59
+    },
+    {
+      "name": "Caneca PicPay Logo",
+      "price": "39.90",
+      "id": 60
+    },
+    {
+      "name": "Caneca PicPay Real",
+      "price": "39.90",
+      "id": 61
+    },
+    {
+      "name": "Caneca PicPay Fail Fast",
+      "price": "39.90",
+      "id": 62
+    },
+    {
+      "name": "Caneca PicPay Pantone Green",
+      "price": "39.90",
+      "id": 63
+    },
+    {
+      "name": "Moletom PicPay Logo",
+      "price": "149.00",
+      "id": 64
     }
   ]
 }
