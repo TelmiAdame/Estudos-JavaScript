@@ -16,10 +16,8 @@ Nesse sistema vocês pode:
 
 <div align = "center">
 <img src = "https://user-images.githubusercontent.com/44340715/137797507-25ad1826-0324-4fc0-86a0-5b91c0d7e7bb.PNG" width = "850em">
-Para ter acesso a todas as imagens do projeto clique <a href = "https://drive.google.com/drive/folders/1aRTDGkxL4O53XDh9doK90_D4lEn0W07c?usp=sharing" >**AQUI**<a>
+<p>Para ter acesso a todas as imagens do projeto clique <a href = "https://drive.google.com/drive/folders/1aRTDGkxL4O53XDh9doK90_D4lEn0W07c?usp=sharing" >**AQUI**<a><p>
 </div>
-
-##
 
 **Clonando reposítório**
 ```
@@ -27,13 +25,13 @@ $ git clone https://github.com/TelmiAdame/Projeto-Loja-em-Angular-e-Exercicios-J
 $ cd angular
 ```
 
-##
-
 **Acessos URL**
 - URL Projeto: http://localhost:4200
 - URL Server: http://localhost: 3001
+  
+ ##
 
-**2 -** 👕💚 Fundamentos e Exercícios em JavaScript (pastas 'fundamentos-js' e 'exercícios-js')
+**2 -** 👩🏽💬 Fundamentos e Exercícios em JavaScript (pastas 'fundamentos-js' e 'exercícios-js')
 
 Essas duas pastas possuem um pouco do meu processo de estudos e pequenos resumos primordiais da aprendizagem em JS. 
 Utilizei como base o curso Curso Web Moderno Completo com JavaScript 2021 - prof. Leonardo Moura Leitao
