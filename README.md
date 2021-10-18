@@ -39,5 +39,5 @@ Essas duas pastas possuem um pouco do meu processo de estudos e pequenos resumos
 Utilizei como base o curso Curso Web Moderno Completo com JavaScript 2021 - prof. Leonardo Moura Leitao
 
 <div align = "center">
-<img src = "https://user-images.githubusercontent.com/44340715/137814153-c76555d8-ac52-41ce-8525-6981753fca9c.PNG" width = "1000em">
+<img src = "https://user-images.githubusercontent.com/44340715/137814153-c76555d8-ac52-41ce-8525-6981753fca9c.PNG" width = "800em">
 </div>
