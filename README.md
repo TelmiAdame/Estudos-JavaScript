@@ -6,8 +6,8 @@ Olá, essa é uma pasta que contém:
 
 Esse é um projeto desenvolvido em AngularJS e TypeScript, que tem como finalidade simular um sistema de produtos de uma loja.\
 O único objetivo deste projeto é o aprendizado da linguagem.\
-Os produtos listados, estão disponíveis na loja real do PicPay, sendo assim, podemos nos divertir recriando com ambiente interno da loja.\
-Nesse sistema vocês pode:
+Os produtos listados estão disponíveis na loja real do PicPay, sendo assim, podemos nos divertir recriando o ambiente interno da loja.\
+Nesse sistema você pode:
 
 - visualizar os produtos disponíveis e seus respectivos valores
 - criar um novo produto
