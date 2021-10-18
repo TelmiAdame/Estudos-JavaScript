@@ -19,7 +19,7 @@ Nesse sistema você pode:
 <p>Para ter acesso a todas as imagens do projeto clique <a href = "https://drive.google.com/drive/folders/1aRTDGkxL4O53XDh9doK90_D4lEn0W07c?usp=sharing" >**AQUI**<a><p>
 </div>
 
-**Clonando reposítório**
+**Clonando repositório**
 ```
 $ git clone https://github.com/TelmiAdame/Projeto-Loja-em-Angular-e-Exercicios-JS.git
 $ cd angular
