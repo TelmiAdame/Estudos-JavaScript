@@ -1,6 +1,7 @@
 # Projeto Loja em Angular | Fundamentos e Exercícios em JavaScript
 
-Olá, essa é uma pasta que contém:
+Olá, essa é uma pasta que contém um pouco do meu processo de estudos. 
+Utilizei como base o curso "Curso Web Moderno Completo com JavaScript 2021 - prof. Leonardo Moura Leitao".
 
 **1 -** 👕💚 Projeto Loja PicPay (pasta 'angular')
 
@@ -33,8 +34,8 @@ $ cd angular
 
 **2 -** 👩🏽💬 Fundamentos e Exercícios em JavaScript (pastas 'fundamentos-js' e 'exercícios-js')
 
-Essas duas pastas possuem um pouco do meu processo de estudos e pequenos resumos primordiais da aprendizagem em JS. 
-Utilizei como base o curso "Curso Web Moderno Completo com JavaScript 2021 - prof. Leonardo Moura Leitao"
+Essa pasta possue um pouco do meu processo de estudos e pequenos resumos primordiais da aprendizagem em JS. 
+
 
 <div align = "center">
 <img src = "https://user-images.githubusercontent.com/44340715/137814153-c76555d8-ac52-41ce-8525-6981753fca9c.PNG" width = "500em">
