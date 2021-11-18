@@ -6,27 +6,27 @@
       "id": 6
     },
     {
-      "name": "Camiseta PicPay Logo - Feminina - Mescla",
+      "name": "Camiseta Empresa Logo - Feminina - Mescla",
       "price": "39.80",
       "id": 7
     },
     {
-      "name": "Camiseta PicPay Logo - Feminina - Branco",
+      "name": "Camiseta Empresa Logo - Feminina - Branco",
       "price": "39.80",
       "id": 8
     },
     {
-      "name": "Camiseta PicPay Mission - Feminina - Branco",
+      "name": "Camiseta Empresa Mission - Feminina - Branco",
       "price": "39.45",
       "id": 9
     },
     {
-      "name": "Camiseta PicPay Mission - Feminina - Mescla",
+      "name": "Camiseta Empresa Mission - Feminina - Mescla",
       "price": "39.45",
       "id": 10
     },
     {
-      "name": "Camiseta PicPay Mission - Feminina - Preto",
+      "name": "Camiseta Empresa Mission - Feminina - Preto",
       "price": "39.45",
       "id": 11
     },
@@ -41,7 +41,7 @@
       "id": 13
     },
     {
-      "name": "Camiseta PicPay Logo Colorida - Feminina - Branco",
+      "name": "Camiseta Empresa Logo Colorida - Feminina - Branco",
       "price": "44.73",
       "id": 14
     },
@@ -56,17 +56,17 @@
       "id": 16
     },
     {
-      "name": "Camiseta PicPay Logo - Feminina - Preto",
+      "name": "Camiseta Empresa Logo - Feminina - Preto",
       "price": "39.80",
       "id": 17
     },
     {
-      "name": "Camiseta PicPay Logo Contorno - Feminina - Preto",
+      "name": "Camiseta Empresa Logo Contorno - Feminina - Preto",
       "price": "39.45",
       "id": 18
     },
     {
-      "name": "Camiseta PicPay Logo Contorno - Feminina - Mescla",
+      "name": "Camiseta Empresa Logo Contorno - Feminina - Mescla",
       "price": "39.45",
       "id": 19
     },
@@ -111,17 +111,17 @@
       "id": 27
     },
     {
-      "name": "Camiseta PicPay Logo Peq - Feminina - Preto",
+      "name": "Camiseta Empresa Logo Peq - Feminina - Preto",
       "price": "39.45",
       "id": 28
     },
     {
-      "name": "Camiseta PicPay Logo Peq - Feminina - Mescla",
+      "name": "Camiseta Empresa Logo Peq - Feminina - Mescla",
       "price": "39.45",
       "id": 29
     },
     {
-      "name": "PicPay + - Feminina",
+      "name": "Empresa + - Feminina",
       "price": "49.90",
       "id": 30
     },
@@ -131,27 +131,27 @@
       "id": 31
     },
     {
-      "name": "Camiseta PicPay Logo - Mescla",
+      "name": "Camiseta Empresa Logo - Mescla",
       "price": "39.80",
       "id": 32
     },
     {
-      "name": "Camiseta PicPay Logo - Branco",
+      "name": "Camiseta Empresa Logo - Branco",
       "price": "39.80",
       "id": 33
     },
     {
-      "name": "Camiseta PicPay Mission - Preto",
+      "name": "Camiseta Empresa Mission - Preto",
       "price": "39.45",
       "id": 34
     },
     {
-      "name": "Camiseta PicPay Mission - Mescla",
+      "name": "Camiseta Empresa Mission - Mescla",
       "price": "39.45",
       "id": 35
     },
     {
-      "name": "Camiseta PicPay Mission - Branco",
+      "name": "Camiseta Empresa Mission - Branco",
       "price": "39.45",
       "id": 36
     },
@@ -166,7 +166,7 @@
       "id": 38
     },
     {
-      "name": "Camiseta PicPay Logo Colorida - Branco",
+      "name": "Camiseta Empresa Logo Colorida - Branco",
       "price": "44.73",
       "id": 39
     },
@@ -186,12 +186,12 @@
       "id": 42
     },
     {
-      "name": "Camiseta PicPay Logo - Preto",
+      "name": "Camiseta Empresa Logo - Preto",
       "price": "39.80",
       "id": 43
     },
     {
-      "name": "Camiseta PicPay Logo Contorno - Mescla",
+      "name": "Camiseta Empresa Logo Contorno - Mescla",
       "price": "39.45",
       "id": 44
     },
@@ -236,57 +236,57 @@
       "id": 52
     },
     {
-      "name": "Camiseta PicPay Logo Peq - Preto",
+      "name": "Camiseta Empresa Logo Peq - Preto",
       "price": "39.45",
       "id": 54
     },
     {
-      "name": "Camiseta PicPay Logo Peq - Mesc",
+      "name": "Camiseta Empresa Logo Peq - Mesc",
       "price": "39.45",
       "id": 55
     },
     {
-      "name": "Camiseta PicPay Logo Contorno - Preto",
+      "name": "Camiseta Empresa Logo Contorno - Preto",
       "price": "39.45",
       "id": 56
     },
     {
-      "name": "PicPay +",
+      "name": "Empresa +",
       "price": "49.90",
       "id": 57
     },
     {
-      "name": "Boné PicPay Logo",
+      "name": "Boné Empresa Logo",
       "price": "44.90",
       "id": 58
     },
     {
-      "name": "Boné PicPay Logo Cor",
+      "name": "Boné Empresa Logo Cor",
       "price": "44.90",
       "id": 59
     },
     {
-      "name": "Caneca PicPay Logo",
+      "name": "Caneca Empresa Logo",
       "price": "39.90",
       "id": 60
     },
     {
-      "name": "Caneca PicPay Real",
+      "name": "Caneca Empresa Real",
       "price": "39.90",
       "id": 61
     },
     {
-      "name": "Caneca PicPay Fail Fast",
+      "name": "Caneca Empresa Fail Fast",
       "price": "39.90",
       "id": 62
     },
     {
-      "name": "Caneca PicPay Pantone Green",
+      "name": "Caneca Empresa Pantone Green",
       "price": "39.90",
       "id": 63
     },
     {
-      "name": "Moletom PicPay Logo",
+      "name": "Moletom Empresa Logo",
       "price": "149.00",
       "id": 64
     }
