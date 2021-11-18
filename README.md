@@ -16,7 +16,7 @@ Nesse sistema você pode:
 - excluir um produto
 
 <div align = "center">
-<img src = "https://user-images.githubusercontent.com/44340715/137797507-25ad1826-0324-4fc0-86a0-5b91c0d7e7bb.PNG" width = "850em">
+<img src = "https://user-images.githubusercontent.com/44340715/142415470-8defb242-4735-4569-8495-09596e239571.PNG" width = "850em">
 <p>Para ter acesso a todas as imagens do projeto clique <a href = "https://drive.google.com/drive/folders/1aRTDGkxL4O53XDh9doK90_D4lEn0W07c?usp=sharing" >**AQUI**<a><p>
 </div>
 
